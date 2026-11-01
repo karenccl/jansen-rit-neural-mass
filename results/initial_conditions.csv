@@ -1,0 +1,10 @@
+p,start,oscillating,ptp_mV,peak_freq_Hz
+90.0,zeros,False,0.0,
+90.0,end_of_p90,False,0.0,
+90.0,end_of_p150,True,0.359,10.254
+120.0,zeros,True,9.944,2.441
+120.0,end_of_p90,True,9.944,2.441
+120.0,end_of_p150,True,2.065,10.498
+150.0,zeros,True,2.64,10.742
+150.0,end_of_p90,True,2.64,10.742
+150.0,end_of_p150,True,2.64,10.742

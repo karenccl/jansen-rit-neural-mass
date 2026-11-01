@@ -1,0 +1,7 @@
+p,vs,same_regime,ptp_within_1pct,peak_within_1bin
+90.0,strict,True,True,True
+120.0,strict,True,True,True
+150.0,strict,True,True,True
+90.0,lsoda,True,True,True
+120.0,lsoda,True,True,True
+150.0,lsoda,True,True,True

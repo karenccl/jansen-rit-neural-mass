@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="sans-serif" font-size="14">
+<defs>
+<marker id="g" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#2a7"/></marker>
+<marker id="r" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#c33"/></marker>
+</defs>
+<rect width="720" height="420" fill="#fff"/>
+<text x="360" y="26" text-anchor="middle" font-weight="bold">Single Jansen–Rit column</text>
+<rect x="270" y="170" width="180" height="70" rx="10" fill="#eef" stroke="#336"/>
+<text x="360" y="200" text-anchor="middle">Pyramidal cells</text>
+<text x="360" y="222" text-anchor="middle" font-size="12">output v = y1 − y2</text>
+<rect x="270" y="50" width="180" height="60" rx="10" fill="#efe" stroke="#2a7"/>
+<text x="360" y="76" text-anchor="middle">Excitatory interneurons</text>
+<text x="360" y="96" text-anchor="middle" font-size="12">(C1, C2)</text>
+<rect x="270" y="320" width="180" height="60" rx="10" fill="#fee" stroke="#c33"/>
+<text x="360" y="346" text-anchor="middle">Inhibitory interneurons</text>
+<text x="360" y="366" text-anchor="middle" font-size="12">(C3, C4)</text>
+<path d="M330,170 L330,112" stroke="#2a7" stroke-width="2" fill="none" marker-end="url(#g)"/>
+<text x="318" y="145" text-anchor="end" fill="#2a7" font-size="12">excitatory, C1</text>
+<path d="M390,110 L390,168" stroke="#2a7" stroke-width="2" fill="none" marker-end="url(#g)"/>
+<text x="402" y="145" fill="#2a7" font-size="12">excitatory, C2</text>
+<path d="M330,240 L330,318" stroke="#2a7" stroke-width="2" fill="none" marker-end="url(#g)"/>
+<text x="318" y="285" text-anchor="end" fill="#2a7" font-size="12">excitatory, C3</text>
+<path d="M390,320 L390,242" stroke="#c33" stroke-width="2" fill="none" marker-end="url(#r)"/>
+<text x="402" y="285" fill="#c33" font-size="12">inhibitory, C4 (filter b)</text>
+<path d="M90,205 L268,205" stroke="#2a7" stroke-width="3" fill="none" marker-end="url(#g)"/>
+<text x="90" y="190" font-weight="bold">external input p</text>
+<text x="90" y="226" font-size="12">enters the y4 equation only</text>
+<text x="360" y="410" text-anchor="middle" font-size="12">6 states = 3 PSPs × (potential + rate). Green = excitatory, red = inhibitory.</text>
+</svg>

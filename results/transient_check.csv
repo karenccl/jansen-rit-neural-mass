@@ -1,0 +1,4 @@
+p,ptp_5to10s_mV,ptp_15to20s_mV,rel_diff_pct,adequate
+90.0,0.0,0.0,0.0,True
+120.0,9.9437,9.9437,0.0,True
+150.0,2.6461,2.6397,0.2397,True
